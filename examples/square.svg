@@ -1,0 +1,7 @@
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+
+  <rect x="110" y="90" width="220" height="220" fill="pink" />
+
+  <text x="250" y="225" font-size="90" text-anchor="middle" fill="#404">kari</text>
+
+</svg>
